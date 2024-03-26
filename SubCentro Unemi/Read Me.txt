@@ -1,0 +1,7 @@
+
+-----------------------------------
+Login Details for admin : admin/Test@12345
+Login Details for Paciente: test@gmail.com/Test@123
+Login Details for Doctor: test@demo.com/Test@123
+login Details for Enfermera: enfermera/ 123456   
+----------------------------------
